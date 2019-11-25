@@ -1,0 +1,7 @@
+{
+  "appId": "com.resume.app",
+  "appName": "resume",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
